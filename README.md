@@ -52,6 +52,10 @@
       observer.observe(el);
     });
   });
+   document.documentElement.classList.add('dark');
+  if (localStorage.getItem('theme') === 'light') {
+    document.documentElement.classList.remove('dark');
+  }
 </script>
 <body class="text-sm font-poppins bg-white text-gray-800 dark:bg-gray-900 dark:text-gray-100 transition-colors duration-300">
   <!-- Header -->
@@ -76,6 +80,13 @@
     </nav>
   </div>
   </header>
+
+  <script>
+  document.documentElement.classList.add('dark');
+  if (localStorage.getItem('theme') === 'light') {
+    document.documentElement.classList.remove('dark');
+  }
+</script>
 
   <!-- Main Content -->
   <main class="max-w-5xl mx-auto px-6 space-y-24">
@@ -123,17 +134,45 @@
           <summary class="cursor-pointer text-sm font-semibold">SKONEC ENTERTAINMENT｜XR사업본부·차장｜2022.03-Current</summary>
           <div class="mt-4 space-y-6">
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216330/ss_62f95625f12fb402530f208d0a77fdcef8368456.600x338.jpg?t=1737697230" alt="Another Door Thumbnail" onclick="openPopup(['https://www.youtube.com/embed/B3R3sP5ojlA'])" style="cursor: pointer;" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3216330/ss_62f95625f12fb402530f208d0a77fdcef8368456.1920x1080.jpg?t=1737697230" alt="Another Door Thumbnail" onclick="openPopup(['https://www.youtube.com/embed/B3R3sP5ojlA'])" style="cursor: pointer;" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
-            <h3 class="text-xl font-semibold mb-2">Another Door: Escape Room (2024)</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
+            <h3 class="text-xl font-semibold mb-2">VR Horror Puzzle, 'Another Door: Escape Room'<br>출시 마케팅(2024)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">
+<strong>👉🏻 R&R</strong>
+<li>마케팅 채널 발굴 및 기획, 미디어믹스</li>
+<li>소셜미디어 채널(Facebook, Youtube, Instagram, X 등) 콘텐츠 기획 및 운영</li>
+<li>브랜드 웹사이트, 디스코드 구축, CRM 커뮤니케이션 지원</li>
+<li>보도자료, 광고 카피라이트 등 크리에이티브 기획, 제작/관리</li>
+<li>스토어 대시보드 운영관리, 지표 분석 및 리포팅</li>
+<li>KOCCA 독일 Gamescom 2024, 일본 TGS 한국공동관 참가, 현장 운영 리드</li>
+<strong>👍🏻 RESULT</strong>
+<li>앱 노출 1,900K 확보, 구매 유저 62% 타겟 지역인 북미, 영국에서 발생 (출시 후, 3개월)</li>
+<li>신규 유저 확보를 위한 스토어 크리에이티브 A/B테스트를 통해 전환율 37.5% 개선</li>
+<li>Meta Horizon Store, Puzzle of the Year 2024 선정</li>
+<li>공식 홈페이지 한국인터넷전문가협회 i-AWARDS 2024 문화/관광 부문 대상 수상</li><br>
+            <a href=https://www.meta.com/experiences/7941437402579936/>Meta Horizon Store →</a><br>
+            <a href=https://store.steampowered.com/app/3216330/Another_Door_Escape_Room/>Steam Store →</a><br>
           </div>
         </div>
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="https://www.skonec.com/wp-content/uploads/2024/09/coverart.jpg" alt="Strike Rush Thumbnail" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://scontent-ssn1-1.oculuscdn.com/v/t64.5771-25/38974676_3959964027648739_2258453843695372064_n.jpg?stp=dst-jpg_q92_s1440x1440_tt6&_nc_cat=104&ccb=1-7&_nc_sid=6e7a0a&_nc_ohc=6WJeBaSVi1UQ7kNvwF0gjHO&_nc_oc=AdmgRtgEGhcmy2S2TdORm3mQQIkO96DdGEtgbmtcro_K2VLmGJ28esFKldshYEpJhm0&_nc_zt=3&_nc_ht=scontent-ssn1-1.oculuscdn.com&oh=00_AfMTZsUH7G2lCebV67f2ncE4Au0IHotWTMAUig3mo5_hDg&oe=686470C0" alt="Strike Rush Thumbnail" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
-            <h3 class="text-xl font-semibold mb-2">Strike Rush (2024)</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">VR 척추교정 시뮬레이션 게임. 유머와 아이러니를 결합한 블랙코미디 연출로 캐릭터의 목을 "팝"하며 진행되는 캐주얼 체험형 콘텐츠.</p>
+            <h3 class="text-xl font-semibold mb-2">VR PVP Arena Shooter, 'Strike Rush'<br>출시 마케팅(2024)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">
+<strong>👉🏻 R&R</strong>
+<li>마케팅 채널 발굴 및 기획, 미디어믹스</li>
+<li>소셜미디어 채널(Facebook, Youtube, Instagram, X 등) 콘텐츠 기획 및 운영</li>
+<li>브랜드 웹사이트, 디스코드 구축, CRM 커뮤니케이션 지원</li>
+<li>보도자료, 광고 카피라이트 등 크리에이티브 기획, 제작/관리</li>
+<li>스토어 대시보드 운영관리, 지표 분석 및 리포팅</li>
+<strong>👍🏻 RESULT</strong>
+<li>Reach to conversion 7.0% (출시 후, 3개월)</li>
+<li>신규 유저 확보를 위한 스토어 크리에이티브 A/B테스트를 통해 전환율 27.3% 개선</li>
+<li>영미권 KOL 캠페인 + Press Release Total Impression 600K 확보, 국가 별 액티브유저 62% 북미,영국에서 발생 (출시 후, 3개월)</li>
+<li>UA 캠페인을 통해 디스코드 서버 멤버 4.5K 확보</li>
+<li>한국콘텐츠진흥원 게임더하기 2024 지원 수혜게임 참가신청서 작성 및 피칭(선정)</li><br>
+            </p>
+            <a href=https://www.meta.com/experiences/7224231090949496/>Meta Horizon Store →</a>
           </div>
         </div>
       </div>
@@ -145,15 +184,31 @@
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
           <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
-            <h3 class="text-xl font-semibold mb-2">Mr. TRAVELER (2025)</h3>
+            <h3 class="text-xl font-semibold mb-2">인천국제공항 T1밀레니엄홀 미디어타워 영상제작(2021)</h3>
             <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
           </div>
         </div>
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
           <img src="thumbnail1.jpg" alt="Dr. POP 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
-            <h3 class="text-xl font-semibold mb-2">Dr. POP (2025)</h3>
+            <h3 class="text-xl font-semibold mb-2">5G 실감콘텐츠 기획홍보 및 시연콘텐츠 제작운영,'광화시대'(2021)</h3>
             <p class="text-sm text-gray-700 dark:text-gray-300">VR 척추교정 시뮬레이션 게임. 유머와 아이러니를 결합한 블랙코미디 연출로 캐릭터의 목을 "팝"하며 진행되는 캐주얼 체험형 콘텐츠.</p>
+          </div>
+        </div>
+        <div class="mt-4 space-y-6">
+        <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
+          <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <div class="flex-1">
+            <h3 class="text-xl font-semibold mb-2">광주 전일빌딩245 몰입형 영상관 구축(2020)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
+          </div>
+        </div>
+          <div class="mt-4 space-y-6">
+        <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
+          <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <div class="flex-1">
+            <h3 class="text-xl font-semibold mb-2">기술특례상장(2020)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
           </div>
         </div>
       </div>
@@ -436,4 +491,3 @@
 </html>
 
 
-****
