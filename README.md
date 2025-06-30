@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ko" class="transition-colors duration-300">
 <head>
   <meta charset="UTF-8">
