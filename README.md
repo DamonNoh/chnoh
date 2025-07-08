@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ko" class="transition-colors duration-300">
 <head>
   <meta charset="UTF-8">
@@ -181,33 +182,72 @@
       <summary class="cursor-pointer text-sm font-semibold">GIANTSTEP｜뉴미디어사업본부 · 팀장｜2019.08-2021.09</summary>
       <div class="mt-4 space-y-6">
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://www.giantstep.co.kr/attach_files/editor/1585211508.png" alt="T1 미디어타워 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
             <h3 class="text-xl font-semibold mb-2">인천국제공항 T1밀레니엄홀 미디어타워 영상제작(2021)</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
+            <p class="text-sm text-gray-700 dark:text-gray-300">
+<strong>👉🏻 R&R</strong> 
+<li>공항 여객터미널 내 Unreal Engine 기반 LED 미디어타워 상설 전시 콘텐츠 기획, 제안 및 피칭</li>
+<li>RFP 및 투입 예산 분석, 추진 가능성 검토를 바탕으로 전체 컨셉 및 기획 방향 제시</li>
+<li>사업 제안서 작성 및 수주 (총 사업비 약 15억원)</li>
+<strong>👍🏻 RESULT</strong>
+<li>투입 예산 분석, 추진 가능성 검토</li>
+<li>제안(제안서, 사업수행능력평가서 작성) 당선 및 사업 수주</li>
+            </p>
           </div>
         </div>
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="thumbnail1.jpg" alt="Dr. POP 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://thumb.mt.co.kr/06/2020/12/2020120710212368857_1.jpg" alt="광화시대 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
             <h3 class="text-xl font-semibold mb-2">5G 실감콘텐츠 기획홍보 및 시연콘텐츠 제작운영,'광화시대'(2021)</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">VR 척추교정 시뮬레이션 게임. 유머와 아이러니를 결합한 블랙코미디 연출로 캐릭터의 목을 "팝"하며 진행되는 캐주얼 체험형 콘텐츠.</p>
+            <p class="text-sm text-gray-700 dark:text-gray-300">
+<strong>👉🏻 R&R</strong>
+<li>실감콘텐츠 기반 문화체험공간 사업기획, 프로젝트 기획단 커뮤니케이션</li>
+<li>투입 예산 분석, 추진 가능성 검토</li>
+<li>광화문 대국민 이벤트 ≪광화시대≫ 실감콘텐츠 8종 아이템 기획</li>
+<li>콘텐츠 기획단 및 이해관계자 커뮤니케이션</li>
+<li>프로젝트 컨셉 구체화 및 프로모션 영상 기획, 제작 관리</li>
+<strong>👍🏻 RESULT</strong>
+<li>제안당선 및 사업수주 (총 사업비 45억, KBS media, MBC plus, CJ powercast 컨소시엄)</li>
+<li>광화문 대국민 이벤트 ≪광화시대≫ 실감콘텐츠 8종 아이템 기획, 운영계획 수립</li><br>
+<a href=https://youtu.be/tf6CMIgVkns?si=yT9tpT2HANAvDyT_>Watch Trailer →</a><br>
+            </p>
           </div>
         </div>
         <div class="mt-4 space-y-6">
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://playgwangju.co.kr/data/file/hall/989889322_9higU7Em_a06df37a2c95bd5eb21285f6e7641b387e25e03d.jpg" alt="전일빌딩 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
             <h3 class="text-xl font-semibold mb-2">광주 전일빌딩245 몰입형 영상관 구축(2020)</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
+            <p class="text-sm text-gray-700 dark:text-gray-300">
+<strong>👉🏻 R&R</strong>
+<li>광주 전일빌딩 리모델링 사업 일환 1층 몰입형 영상관 제안 및 구축 프로젝트 리딩</li>
+<li>RFP 및 투입 예산 분석, 추진 가능성 검토를 바탕으로 전체 컨셉 및 기획 방향 제시</li>
+<li>홀로그램과 프로젝션 맵핑 기법을 활용한 몰입형 콘텐츠 제안</li>
+<li>PM으로서 영상관 및 콘텐츠 구축 프로젝트 리드 (전략 수립-콘텐츠 기획-예산관리-실행/운영)</li>
+<li>현장 인테리어 업체 등 외주 파트너 커뮤니케이션</li>
+<strong>👍🏻 RESULT</strong>
+<li>몰입형 전시관 구축을 위한 제안서 기획/작성 및 수주 (총 사업비 약 4억원)</li>
+<li>공간 설계, 콘텐츠 기획 및 제작관리, 하드웨어/소프트웨어 연동구조 기획 등 프로젝트 리드</li>
+<li>전일빌딩 리모델링 오픈 일정에 맞춰 현장 오픈, 3개월 간 누적 관람인원 약 8만 명 달성</li>
+
+            </p>
           </div>
         </div>
           <div class="mt-4 space-y-6">
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://www.techm.kr/news/photo/202103/81690_80374_3517.png" alt="IPO 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
             <h3 class="text-xl font-semibold mb-2">기술특례상장(2020)</h3>
-            <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
+            <p class="text-sm text-gray-700 dark:text-gray-300">
+<strong>👉🏻 R&R</strong> 
+<li>기술특례상장을 위한 사업계획서 작성</li>
+<li>핵심기술역량을 설명하기 위한 사내 개발 프로젝트 별 히스토리 및 머테리얼 데이터 수집, 재정리</li>
+<li>목차 가이드를 준수하여 사업계획서 원고 작성</li>
+<li>유관부서 커뮤니케이션 및 경영진 의견 수렴 문서 수정 보완</li>
+<strong>👍🏻 RESULT</strong>
+<li>2021년 3월 리얼타임엔진 콘텐츠 제작 기술로 IPO</li>
+            </p>
           </div>
         </div>
       </div>
@@ -217,36 +257,77 @@
       <summary class="cursor-pointer text-sm font-semibold">REDROVER｜첨단영상사업부·차장｜2016.03-2019.08</summary>
       <div class="mt-4 space-y-6">
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://www.taebaek.go.kr/site/365safetown/images/contents/cts1480_img03.jpg" alt="365세이프타운 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
-            <h3 class="text-xl font-semibold mb-2">Mr. TRAVELER (2025)</h3>
+            <h3 class="text-xl font-semibold mb-2">소방방재청 태백 365세이프타운 테마파크 어트랙션 콘텐츠 개선 사업 (2025)</h3>
             <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
           </div>
         </div>
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="thumbnail1.jpg" alt="Dr. POP 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://www.ktsketch.co.kr/news/photo/201901/3242_9127_76.jpg" alt="신안선실 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
-            <h3 class="text-xl font-semibold mb-2">Dr. POP (2025)</h3>
+            <h3 class="text-xl font-semibold mb-2">문화재청 국립해양문화재연구소 목포 해양유물전시관 신안선실 영상콘텐츠 제작 (2025)</h3>
             <p class="text-sm text-gray-700 dark:text-gray-300">VR 척추교정 시뮬레이션 게임. 유머와 아이러니를 결합한 블랙코미디 연출로 캐릭터의 목을 "팝"하며 진행되는 캐주얼 체험형 콘텐츠.</p>
           </div>
         </div>
-      </div>
+        <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
+          <img src="https://old.frontpictures.com/images/Fullsphere-Korea-2017/11-FrontPictures-12m-FullSphere-Korea-1800p.jpg" alt="광주과학관 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <div class="flex-1">
+            <h3 class="text-xl font-semibold mb-2">국립광주과학관 루체리움 스페이스스피어 영상관 구축 (2025)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
+          </div>
+        </div>
+          <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
+          <img src="https://www.iksanopennews.com/news/photo/201705/468875_19793_4814.JPG" alt="전북과학교육원 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <div class="flex-1">
+            <h3 class="text-xl font-semibold mb-2">전북교육청 과학교육원 4D체험관 <Space Joy> 영상관 구축 및 3D 입체영상 제작 설치 (2025)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
+          </div>
+        </div>
+          <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
+          <img src="https://jingdailyculture.com/wp-content/uploads/2021/03/suning-museum2050-1.jpg" alt="수닝옛 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <div class="flex-1">
+            <h3 class="text-xl font-semibold mb-2">중국 Shanghai Suning Art Museum 전시 영상 콘텐츠 제작, 구축 (2025)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
+          </div>
+        </div>
     </details>
 
         <details class="text-sm bg-white dark:bg-gray-800 rounded-lg shadow p-4">
       <summary class="cursor-pointer text-sm font-semibold">MEDIAFRONT｜기획/PM팀·대리｜2014.11-2016.03</summary>
       <div class="mt-4 space-y-6">
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://www.businesspost.co.kr/news/photo/201709/20170928120801.jpg" alt="SKTUM 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
-            <h3 class="text-xl font-semibold mb-2">Mr. TRAVELER (2025)</h3>
+            <h3 class="text-xl font-semibold mb-2">SK T UM 체험시설 리뉴얼 (2025)</h3>
             <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
           </div>
         </div>
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="thumbnail1.jpg" alt="Dr. POP 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="https://cdn.gukjenews.com/news/photo/201512/394716_237499_98.jpg" alt="한전홍보관 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
           <div class="flex-1">
-            <h3 class="text-xl font-semibold mb-2">Dr. POP (2025)</h3>
+            <h3 class="text-xl font-semibold mb-2">한국전력 나주혁신도시 신사옥 홍보관 (2025)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">VR 척추교정 시뮬레이션 게임. 유머와 아이러니를 결합한 블랙코미디 연출로 캐릭터의 목을 "팝"하며 진행되는 캐주얼 체험형 콘텐츠.</p>
+          </div>
+        </div>
+        <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
+          <img src="https://www.akomnews.com/wp1/wp-content/uploads/2016/03/DSC07999.jpg" alt="건강관리공단 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <div class="flex-1">
+            <h3 class="text-xl font-semibold mb-2">국민건강관리공단 원주혁신도시 신사옥 홍보관 (2025)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">VR 척추교정 시뮬레이션 게임. 유머와 아이러니를 결합한 블랙코미디 연출로 캐릭터의 목을 "팝"하며 진행되는 캐주얼 체험형 콘텐츠.</p>
+          </div>
+        </div>
+        <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
+          <img src="https://www.korea.kr/newsWeb/resources/attaches/2015.03/16/PYH2015031604580001300551.jpg" alt="부산창조경제 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <div class="flex-1">
+            <h3 class="text-xl font-semibold mb-2">Lotte 부산창조경제혁신센터 (2025)</h3>
+            <p class="text-sm text-gray-700 dark:text-gray-300">VR 척추교정 시뮬레이션 게임. 유머와 아이러니를 결합한 블랙코미디 연출로 캐릭터의 목을 "팝"하며 진행되는 캐주얼 체험형 콘텐츠.</p>
+          </div>
+        </div>
+        <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
+          <img src="http://global-autonews.com/data/file/ct_034/e414e25566313067c45a7a30e4b50874_1428886715_3437.JPG" alt="쉐보레관 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <div class="flex-1">
+            <h3 class="text-xl font-semibold mb-2">2015 서울모터쇼 쉐보레관 (2025)</h3>
             <p class="text-sm text-gray-700 dark:text-gray-300">VR 척추교정 시뮬레이션 게임. 유머와 아이러니를 결합한 블랙코미디 연출로 캐릭터의 목을 "팝"하며 진행되는 캐주얼 체험형 콘텐츠.</p>
           </div>
         </div>
@@ -257,7 +338,7 @@
       <summary class="cursor-pointer text-sm font-semibold">BIG-I ENTERTAINMENT｜사업기획팀·대리｜2012.10-2014.05</summary>
       <div class="mt-4 space-y-6">
         <div class="flex flex-col md:flex-row items-start gap-6 bg-gray-50 dark:bg-gray-900 rounded-lg p-4">
-          <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cover h-48">
+          <img src="thumbnail2.jpg" alt="Mr. TRAVELER 썸네일" class="w-full md:w-1/3 rounded-lg object-cove관 h-48">
           <div class="flex-1">
             <h3 class="text-xl font-semibold mb-2">Mr. TRAVELER (2025)</h3>
             <p class="text-sm text-gray-700 dark:text-gray-300">혼합현실 보드게임, 전 세계 여행을 테마로 한 인터랙티브 플레이 경험을 제공. Meta Quest 3를 기반으로 공간 매핑과 핸드트래킹을 활용.</p>
@@ -488,5 +569,4 @@
   
 </script>
 </html>
-
 
